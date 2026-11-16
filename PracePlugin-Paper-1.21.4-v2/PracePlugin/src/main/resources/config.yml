@@ -1,0 +1,54 @@
+rewards:
+  normal-level: 50.0
+  milestone-level: 500.0
+  milestone-every: 10
+
+miner:
+  progress-per-block: 2.0
+  double-drop-chance: 15.0
+  materials:
+    - STONE
+    - COBBLESTONE
+    - DEEPSLATE
+    - COBBLED_DEEPSLATE
+    - TUFF
+    - ANDESITE
+    - DIORITE
+    - GRANITE
+    - COAL_ORE
+    - DEEPSLATE_COAL_ORE
+    - COPPER_ORE
+    - DEEPSLATE_COPPER_ORE
+    - IRON_ORE
+    - DEEPSLATE_IRON_ORE
+    - GOLD_ORE
+    - DEEPSLATE_GOLD_ORE
+    - REDSTONE_ORE
+    - DEEPSLATE_REDSTONE_ORE
+    - LAPIS_ORE
+    - DEEPSLATE_LAPIS_ORE
+    - DIAMOND_ORE
+    - DEEPSLATE_DIAMOND_ORE
+    - EMERALD_ORE
+    - DEEPSLATE_EMERALD_ORE
+    - NETHER_QUARTZ_ORE
+    - NETHER_GOLD_ORE
+    - ANCIENT_DEBRIS
+
+assassin:
+  player-progress: 10.0
+  mob-progress: 2.0
+  double-damage-chance: 10.0
+  unlock-level: 20
+
+lumberjack:
+  progress-per-log: 2.0
+  tree-felling-unlock-level: 10
+  max-logs-per-tree: 128
+
+job-switch:
+  cooldown-hours: 72
+
+gui:
+  title: "ᴘʀᴀᴄᴇ"
+  size: 27

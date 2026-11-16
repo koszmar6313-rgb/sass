@@ -1,0 +1,14 @@
+name: Prace
+version: 1.0.0
+main: pl.prace.PracePlugin
+api-version: '1.21'
+depend: [Vault]
+commands:
+  praca:
+    description: Otwiera menu wyboru prac
+    usage: /praca
+    aliases: [prace, jobs]
+permissions:
+  prace.admin:
+    description: Administracja pluginem prac
+    default: op
